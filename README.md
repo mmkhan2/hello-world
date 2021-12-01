@@ -3,4 +3,4 @@ My name's Munawar. I'm into all things software. Recently switched focus to mana
 
 Working on Cloud Solutions for Data Warehouses.
 
-https://www.linkedin.com/in/mmunawarkhan
+[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mmunawarkhan)
