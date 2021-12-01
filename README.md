@@ -8,14 +8,12 @@ Working on Cloud Solutions for Data Warehouses.
 
 | | | |
 |:--:|:--:|:--:|
-| <img width="100" src="logos/Berkley.jpeg" alt="Berkley Technology Services"></img> | [Berkley Technology Services](https://www.berkley-bts.com/) | Manager of Investment Applications |
-| <img width="100" src="logos/ZehnSoft.jpeg.jpg" alt="DocHuddle"></img> | [ZehnSoft Technologies] | Principal Consultant |
+| <img width="100" src="./logos/Berkley.jpg" alt="Berkley Technology Services"></img> | [Berkley Technology Services](https://www.berkley-bts.com/) | Manager of Investment Applications |
+| <img width="100" src="./logos/ZehnSoft.jpg" alt="ZehnSoft Technologies"></img> | ZehnSoft Technologies | Principal Consultant |
+| <img width="100" src="./logos/Pershing.jpg" alt="Pershing"></img> | [Pershing](https://www.pershing.com/) |  Vice President |
+| <img width="100" src="./logos/AIG.jpg" alt="AIG Investments"></img> | [AIG Investments](https://www.aig.com/) | Technology Specialist-System Design and Development  |
+
 <!--
-| <img width="100" src="./logos/aigfp.jpg" alt="AIG Investments"></img> | [AIG Investments](https://www.aig.com/globalrealestate) |  Chief Quantitative Technologist |
-| <img width="100" src="./logos/gs.jpg" alt="Goldman Sachs"></img> | [Goldman Sachs](https://www.goldmansachs.com/) |  Sr. Associate, Derivatives X-Technology |
-| <img width="100" src="./logos/accenture.png" alt="Accenture"></img> | [Accenture](https://accenture.com) |  Sr. Consultant, NY Capital Markets Group |
-
-
 ## Education
 | | | |
 |:--:|:--:|:--:|
