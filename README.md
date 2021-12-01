@@ -7,7 +7,7 @@ Also working on Cloud Solutions for Data Warehouses.
 ## Experience
 | | | |
 |:--:|:--:|:--:|
-| <img width="100" src="./logos/Berkley.jpg" alt="Berkley Technology Services"></img> | [Berkley Technology Services](https://www.berkley-bts.com/) | Manager of Investment Applications |
+| <img width="100" src="./logos/Berkley.jpg" alt="Berkley Technology Services"></img> | [Berkley Technology Services](https://www.berkley-bts.com/) | Manager-Investment Applications Team |
 | <img width="100" src="./logos/ZehnSoft.jpg" alt="ZehnSoft Technologies"></img> | ZehnSoft Technologies | Principal Consultant |
 | <img width="100" src="./logos/Pershing.jpg" alt="Pershing"></img> | [Pershing](https://www.pershing.com/) |  Vice President |
 | <img width="100" src="./logos/AIG.jpg" alt="AIG Investments"></img> | [AIG Investments](https://www.aig.com/) | Technology Specialist-System Design and Development  |
