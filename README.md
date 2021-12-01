@@ -15,6 +15,6 @@ Also working on Cloud Solutions for Data Warehouses.
 ## Education
 | | | |
 |:--:|:--:|:--:|
-| <img width="100" src="./logos/UniBradford.jpf" alt="Kinetica"></img> | [University of Bradford](https://www.bradford.ac.uk/) | M.Sc. Real-Time Electronic Systems |
-| <img width="100" src="./logos/UI.jpg" alt="Kinetica"></img> | [Univesity of Ibadan](http://www.ui.edu.ng/) | B.Sc. Electrical Engineering |
+| <img width="100" src="./logos/UniBradford.jpg" alt="University of Bradford"></img> | [University of Bradford](https://www.bradford.ac.uk/) | M.Sc. Real-Time Electronic Systems |
+| <img width="100" src="./logos/UI.jpg" alt="University of Ibadan"></img> | [Univesity of Ibadan](http://www.ui.edu.ng/) | B.Sc. Electrical Engineering |
 
