@@ -7,6 +7,7 @@ Also working on Cloud Solutions for Data Warehouses.
 ## Experience
 | | | |
 |:--:|:--:|:--:|
+| <img width="100" src="./logos/snh.png" alt="sparks&honey"></img> | [sparks&honey](https://www.sparksandhoney.com/) | Director-Technical Operations |
 | <img width="100" src="./logos/Berkley.jpg" alt="Berkley Technology Services"></img> | [Berkley Technology Services](https://www.berkley-bts.com/) | Manager-Investment Applications Team |
 | <img width="100" src="./logos/ZehnSoft.jpg" alt="ZehnSoft Technologies"></img> | ZehnSoft Technologies | Principal Consultant |
 | <img width="100" src="./logos/Pershing.jpg" alt="Pershing"></img> | [Pershing](https://www.pershing.com/) |  Vice President |
